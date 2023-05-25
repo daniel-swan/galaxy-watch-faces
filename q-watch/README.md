@@ -10,3 +10,7 @@ QWatch.wfs is a WatchfaceStudio project file. Install Samsung WatchFaceStudio to
 # Customizing the gun
 There is a limit to the number of pictures you can have in a single customization. To get around the limit, I added a category for different gun types and an empty image.
 All but the category of the gun you want to display has to be set to the empty image.
+
+# Credit
+Originaly designed thanks to the tutorial by Christian D.
+[Create Goldeneye 007 Watch Face in Galaxy Watch Studio!](https://www.youtube.com/watch?v=__zGUIjGaWg)
